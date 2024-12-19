@@ -19,7 +19,8 @@ All that is needed is to use NODEJS and call the index.js file through the termi
 
 
 ## Usage
-Use this when you need to quickly build the README file, saving you some time gettting your code to market.
+Use this when you need to quickly build the README file, saving you some time gettting your code to market.  Simply answer the questions in the prompts as demonstrated in the video
+at https://drive.google.com/file/d/1d2nifubzahtNJMVvdKqrVGOdBmlMPge5/view.  Afterward, it will generate the new README.md that you can grab and add to your codebase.
 
 
 ## Contributing

@@ -42,7 +42,7 @@ ${licenseText}
 
 ## Questions?
 Contact me at my [GitHub ](https://github.com/${github})
-, [Email: ](${email}), or [LinkedIn] (https://linkedin.com/in/${linkedIN})
+, [Email: ](${email}), or [LinkedIn](https://linkedin.com/in/${linkedIN})
 
 `;
 
@@ -99,8 +99,7 @@ inquirer
     },
     {
       type: "input",
-
-      name: "linkedin",
+      name: "linkedIN",
       message: "Enter your LinkedIn URL: ",
     },
   ])

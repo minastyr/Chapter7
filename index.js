@@ -5,7 +5,7 @@ import { log } from "console";
 let licenseBadge = "";
 let licenseText = "";
 
-const buildMarkDown = ({ title, description, installInstructions, usage, contribution, testInst, license, github, email, licenseBadge, licenseText }) =>
+const buildMarkDown = ({ title, description, installInstructions, usage, contribution, testInst, license, github, email, linkedIN,licenseBadge, licenseText }) =>
  `
 # ${title}
 
@@ -28,7 +28,7 @@ ${installInstructions}
 
 ## Usage
 ${usage}
-Provide instructions and examples for use. Include screenshots as needed.
+
 
 ## Contributing
 ${contribution}
@@ -41,8 +41,8 @@ ${licenseBadge}
 ${licenseText}
 
 ## Questions?
-My [GitHub Profile: ](https://github.com/${github})
-My [Email: ](${email})
+Contact me at my [GitHub ](https://github.com/${github})
+, [Email: ](${email}), or [LinkedIn] (https://linkedin.com/in/${linkedIN})
 
 `;
 

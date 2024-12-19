@@ -42,7 +42,7 @@ ${licenseText}
 
 ## Questions?
 Contact me at my [GitHub ](https://github.com/${github})
-, [Email: ](${email}), or [LinkedIn](https://linkedin.com/in/${linkedIN})
+, [Email: ](mailto:${email}), or [LinkedIn](https://linkedin.com/in/${linkedIN})
 
 `;
 
